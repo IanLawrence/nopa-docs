@@ -3,20 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Managing your NOPA Server's documentation!
+Welcome to the Help documentation!
 =====================================================
+
+**I'm ready to** `try NOPA out <http://nopa.qarea.org/>`_
+
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   intro.rst
+   adding-a-patient.rst
+   adding-a-medicine.rst
+   creating-a-group.rst
+   direct-messages.rst
