@@ -6,7 +6,7 @@
 Welcome to the Help documentation!
 =====================================================
 
-**I'm ready to** `try NOPA out <http://nopa.qarea.org/>`_
+**I'm ready to** `try NOPA out <https://nokiapeeradhere.net/>`_
 
 
 Contents:
